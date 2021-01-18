@@ -5,7 +5,7 @@
 
 **Goran Gucov, 473219015**
 
-**Stefan Dimitrovski, 473219005 **
+**Stefan Dimitrovski, 473219005**
 
 **Nikola Todorovski, 473219016**
 
