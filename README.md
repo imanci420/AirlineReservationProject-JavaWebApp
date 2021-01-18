@@ -16,9 +16,9 @@
 
 * FrontEnd: Html, CSS, Bootstrap, Js
 
-* Frameworks: Spring Boot, Spring MVC, Hibernate
-
 * BackЕnd: MYSQL with Workbench
+
+* Frameworks: Spring Boot, Spring MVC, Hibernate
 
 * Server: Tomcat 8.5
 
