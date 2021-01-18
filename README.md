@@ -14,15 +14,13 @@
 
 ## **Използвани технологии**
 
-* Front-End: Html, CSS, Bootstrap, Js.
+* FrontEnd: Html, CSS, Bootstrap, Js
 
-* Frameworks: Spring boot, Spring MVC, Hibernate.
+* Frameworks: Spring Boot, Spring MVC, Hibernate
 
-* Domain: Java
+* BackЕnd: MYSQL with Workbench
 
-* Back-end: MYSQL with workbench
-
-* Server: Tomcat 8.5.
+* Server: Tomcat 8.5
 
 
 
