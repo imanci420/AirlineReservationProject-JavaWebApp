@@ -11,12 +11,12 @@ Airport Reservation System е проект за резервация на сам
 
 **Използвани технологии**
 
-Front-End: Html, CSS, Bootstrap, Js.
+-Front-End: Html, CSS, Bootstrap, Js.
 
-Frameworks: Spring boot, Spring MVC, Hibernate.
+-Frameworks: Spring boot, Spring MVC, Hibernate.
 
-Domain: Java
+-Domain: Java
 
-Back-end: MYSQL with workbench
+-Back-end: MYSQL with workbench
 
-Server: Tomcat 8.5.
+-Server: Tomcat 8.5.
