@@ -59,7 +59,7 @@
 
 #### За да стартирате приложението, трябва да промените конфигурацията на базата данни в модула src/main/resources -> application.properties, т.е. да промените следните параметри:
 
-- spring.datasource.url=jdbc:mysql://localhost:3306/airlineticket
+- spring.datasource.url=jdbc:mysql://localhost:3306/airline-ticket-spb
 
 - spring.datasource.username=root
 
