@@ -1,1 +1,1 @@
-# AirlineReservationProject-JavaWebApp
+# Airline Reservation
