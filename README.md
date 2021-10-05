@@ -3,10 +3,6 @@
 
 **Andrej Anastasovski, 473219002**  
 
-**Goran Gucov, 473219015**
-
-**Stefan Dimitrovski, 473219005**
-
 **Nikola Todorovski, 473219014**
 
 ***Airport Reservation System е проект за резервация на самолетни билети по предметът Java приложно програмиране на Технически Универзитет-София.***
